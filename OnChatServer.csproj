@@ -36,11 +36,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Fleck">
-      <HintPath>I:\OnLineChat\在线客服-0229\在线客服-0229\Socket\Socket\WebSocketServerDemo\packages\Fleck.1.1.0\lib\net40\Fleck.dll</HintPath>
+      <HintPath>packages\Fleck.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>I:\OnLineChat\在线客服-0229\在线客服-0229\Socket\Socket\WebSocketServerDemo\packages\Newtonsoft.Json.dll</HintPath>
+      <HintPath>packages\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

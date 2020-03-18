@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Fleck;
 using Newtonsoft.Json;
+using System.Security.Cryptography.X509Certificates;
 
 namespace OnChatServer
 {
@@ -13,7 +14,8 @@ namespace OnChatServer
         {
  
                 IList<SocketClient> socketList = new List<SocketClient>();
-                var socketServer = new WebSocketServer("ws://10.37.24.14:7181");
+                var socketServer = new WebSocketServer("wss://10.37.24.14:7181");
+                socketServer.Certificate = new X509Certificate2("onlinechatcert.pfx","8746");
                 socketServer.RestartAfterListenError = true;
 
                 socketServer.Start(socket => {

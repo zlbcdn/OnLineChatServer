@@ -7,3 +7,12 @@ E:\PDWorkspace\TsinghuaOnLineChatServer\OnChatServer\bin\Debug\Newtonsoft.Json.d
 E:\PDWorkspace\TsinghuaOnLineChatServer\OnChatServer\obj\Debug\OnChatServer.csproj.CopyComplete
 E:\PDWorkspace\TsinghuaOnLineChatServer\OnChatServer\obj\Debug\OnChatServer.exe
 E:\PDWorkspace\TsinghuaOnLineChatServer\OnChatServer\obj\Debug\OnChatServer.pdb
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\bin\Debug\OnChatServer.exe.config
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\bin\Debug\OnChatServer.exe
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\bin\Debug\OnChatServer.pdb
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\bin\Debug\Fleck.dll
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\bin\Debug\Newtonsoft.Json.dll
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\obj\Debug\OnChatServer.csprojAssemblyReference.cache
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\obj\Debug\OnChatServer.csproj.CopyComplete
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\obj\Debug\OnChatServer.exe
+E:\PDWorkspace\TsinghuaOnLineChatServer\OnLineChatServer\obj\Debug\OnChatServer.pdb
